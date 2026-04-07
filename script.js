@@ -14,7 +14,7 @@
  * Nama penerima (tampil di Scene 6 Surprise)
  * Ganti "[ Nama Kamu ]" dengan nama asli.
  */
-const RECIPIENT_NAME = "AMBA ❤️";
+const RECIPIENT_NAME = "Sayang ❤️";
 
 /**
  * Pesan ulang tahun (Scene 5)
@@ -22,7 +22,7 @@ const RECIPIENT_NAME = "AMBA ❤️";
  * Ganti semua teks di antara backtick (`) ini.
  */
 const BIRTHDAY_MESSAGE =
-`Selamat ulang tahun, ambaku... 🌸
+`Selamat ulang tahun, sayangku... 🌸
 
 Di hari yang spesial ini, aku ingin kamu tahu bahwa setiap momen bersamamu adalah hadiah paling berharga yang pernah aku terima.
 
