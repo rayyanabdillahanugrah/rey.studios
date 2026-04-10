@@ -11,7 +11,7 @@ teruslah bersinar seperti bintang yang paling terang — karena dunia ini jauh l
 
 semoga semua impianmu terwujud, semua doamu dikabulkan, dan semua cintamu dikembalikan berlipat ganda 🤑 
 
-i love you more than words can ever say`;
+i love you more than words can ever say.`;
 
 const TYPING_SPEED = 32;
 
